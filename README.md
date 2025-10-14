@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="hero.png" alt="Nova Filename Lister" width="900">
+</p>
+
+
 # Nova Filename Lister
 
 A tiny cross-platform GUI to list filenames from a folder, sort them, preview the result, and write to a text file. Built with Tkinter. Designed for a clean Nova Dark look with pastel pink and dark purple accents.
