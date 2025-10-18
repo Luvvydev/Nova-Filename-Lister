@@ -5,8 +5,7 @@
 
 # Nova Filename Lister
 
-A tiny cross-platform GUI to list filenames from a folder, sort them, preview the result, and write to a text file. Built with Tkinter. Designed for a clean Nova Dark look with pastel pink and dark purple accents.
-
+A tiny cross-platform GUI to list filenames from a folder, sort them, preview the result, and write to a text file.
 **Motivation**
 * I made this due to a request to help sort a Minecraft mod list. You can use it for any folder that needs a quick, tidy list.
 
